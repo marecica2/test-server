@@ -1,0 +1,9 @@
+{
+    "isDev": true,
+    "key" : "f:/workspace/star-server/host.key",
+    "cert" :"f:/workspace/star-server/host.cert",
+    "server": {
+        "host": "localhost",
+        "port": 9999
+    }
+}
